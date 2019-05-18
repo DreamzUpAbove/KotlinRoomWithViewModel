@@ -111,7 +111,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginTop="30dp"
                         android:gravity="center"
-                        android:text="Already a member? Login"
+                        android:text="@string/member_login"
                         android:textSize="16dp"/>
             </androidx.appcompat.widget.LinearLayoutCompat>
         </androidx.core.widget.NestedScrollView>
